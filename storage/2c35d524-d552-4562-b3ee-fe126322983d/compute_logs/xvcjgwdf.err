@@ -1,0 +1,7 @@
+[32m2023-01-09 15:31:17 +0700[0m - dagster - [34mDEBUG[0m - my_job - 2c35d524-d552-4562-b3ee-fe126322983d - 65041 - LOGS_CAPTURED - Started capturing logs in process (pid: 65041).
+[32m2023-01-09 15:31:17 +0700[0m - dagster - [34mDEBUG[0m - my_job - 2c35d524-d552-4562-b3ee-fe126322983d - 65041 - my_asset - STEP_START - Started execution of step "my_asset".
+[32m2023-01-09 15:31:17 +0700[0m - dagster - [34mINFO[0m - my_job - 2c35d524-d552-4562-b3ee-fe126322983d - my_asset - processing at2023-01-09 15:31:17.371905
+[32m2023-01-09 15:31:17 +0700[0m - dagster - [34mDEBUG[0m - my_job - 2c35d524-d552-4562-b3ee-fe126322983d - 65041 - my_asset - STEP_OUTPUT - Yielded output "result" of type "Any". (Type check passed).
+[32m2023-01-09 15:31:17 +0700[0m - dagster - [34mDEBUG[0m - my_job - 2c35d524-d552-4562-b3ee-fe126322983d - my_asset - Writing file at: /home/phuonglc/wspace/test/dagster-test/storage/2c35d524-d552-4562-b3ee-fe126322983d/my_asset/result
+[32m2023-01-09 15:31:17 +0700[0m - dagster - [34mDEBUG[0m - my_job - 2c35d524-d552-4562-b3ee-fe126322983d - 65041 - my_asset - HANDLED_OUTPUT - Handled output "result" using IO manager "io_manager"
+[32m2023-01-09 15:31:17 +0700[0m - dagster - [34mDEBUG[0m - my_job - 2c35d524-d552-4562-b3ee-fe126322983d - 65041 - my_asset - STEP_SUCCESS - Finished execution of step "my_asset" in 167ms.

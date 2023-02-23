@@ -1,0 +1,4 @@
+# dagster_cloud.yaml
+
+load_from:
+  - python_file: dagster_project_source/assets/location1.py

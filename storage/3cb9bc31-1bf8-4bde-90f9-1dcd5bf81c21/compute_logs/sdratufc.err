@@ -1,0 +1,12 @@
+[32m2023-01-09 15:52:03 +0700[0m - dagster - [34mDEBUG[0m - update_job - 3cb9bc31-1bf8-4bde-90f9-1dcd5bf81c21 - 76037 - LOGS_CAPTURED - Started capturing logs in process (pid: 76037).
+[32m2023-01-09 15:52:03 +0700[0m - dagster - [34mDEBUG[0m - update_job - 3cb9bc31-1bf8-4bde-90f9-1dcd5bf81c21 - 76037 - b - STEP_START - Started execution of step "b".
+[32m2023-01-09 15:52:03 +0700[0m - dagster - [34mDEBUG[0m - update_job - 3cb9bc31-1bf8-4bde-90f9-1dcd5bf81c21 - b - Loading file from: /home/phuonglc/wspace/test/dagster-test/storage/a
+[32m2023-01-09 15:52:03 +0700[0m - dagster - [34mDEBUG[0m - update_job - 3cb9bc31-1bf8-4bde-90f9-1dcd5bf81c21 - 76037 - b - ASSET_OBSERVATION - ASSET_OBSERVATION for step b
+[32m2023-01-09 15:52:03 +0700[0m - dagster - [34mDEBUG[0m - update_job - 3cb9bc31-1bf8-4bde-90f9-1dcd5bf81c21 - 76037 - b - LOADED_INPUT - Loaded input "a" using input manager "io_manager", from output "result" of step "a"
+[32m2023-01-09 15:52:03 +0700[0m - dagster - [34mDEBUG[0m - update_job - 3cb9bc31-1bf8-4bde-90f9-1dcd5bf81c21 - 76037 - b - STEP_INPUT - Got input "a" of type "Any". (Type check passed).
+[32m2023-01-09 15:52:03 +0700[0m - dagster - [34mINFO[0m - update_job - 3cb9bc31-1bf8-4bde-90f9-1dcd5bf81c21 - b - log from b
+[32m2023-01-09 15:52:03 +0700[0m - dagster - [34mDEBUG[0m - update_job - 3cb9bc31-1bf8-4bde-90f9-1dcd5bf81c21 - 76037 - b - STEP_OUTPUT - Yielded output "result" of type "Any". (Type check passed).
+[32m2023-01-09 15:52:03 +0700[0m - dagster - [34mDEBUG[0m - update_job - 3cb9bc31-1bf8-4bde-90f9-1dcd5bf81c21 - b - Writing file at: /home/phuonglc/wspace/test/dagster-test/storage/b
+[32m2023-01-09 15:52:03 +0700[0m - dagster - [34mDEBUG[0m - update_job - 3cb9bc31-1bf8-4bde-90f9-1dcd5bf81c21 - 76037 - b - ASSET_MATERIALIZATION - Materialized value b.
+[32m2023-01-09 15:52:03 +0700[0m - dagster - [34mDEBUG[0m - update_job - 3cb9bc31-1bf8-4bde-90f9-1dcd5bf81c21 - 76037 - b - HANDLED_OUTPUT - Handled output "result" using IO manager "io_manager"
+[32m2023-01-09 15:52:03 +0700[0m - dagster - [34mDEBUG[0m - update_job - 3cb9bc31-1bf8-4bde-90f9-1dcd5bf81c21 - 76037 - b - STEP_SUCCESS - Finished execution of step "b" in 168ms.

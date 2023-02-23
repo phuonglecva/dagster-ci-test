@@ -1,0 +1,7 @@
+[32m2023-01-09 15:57:03 +0700[0m - dagster - [34mDEBUG[0m - my_job - f6eda839-c8e5-4d4a-97fc-e18ef2ab8ef4 - 79259 - LOGS_CAPTURED - Started capturing logs in process (pid: 79259).
+[32m2023-01-09 15:57:03 +0700[0m - dagster - [34mDEBUG[0m - my_job - f6eda839-c8e5-4d4a-97fc-e18ef2ab8ef4 - 79259 - a - STEP_START - Started execution of step "a".
+[32m2023-01-09 15:57:03 +0700[0m - dagster - [34mINFO[0m - my_job - f6eda839-c8e5-4d4a-97fc-e18ef2ab8ef4 - a - log from a
+[32m2023-01-09 15:57:03 +0700[0m - dagster - [34mDEBUG[0m - my_job - f6eda839-c8e5-4d4a-97fc-e18ef2ab8ef4 - 79259 - a - STEP_OUTPUT - Yielded output "result" of type "Any". (Type check passed).
+[32m2023-01-09 15:57:03 +0700[0m - dagster - [34mDEBUG[0m - my_job - f6eda839-c8e5-4d4a-97fc-e18ef2ab8ef4 - a - Writing file at: /home/phuonglc/wspace/test/dagster-test/storage/f6eda839-c8e5-4d4a-97fc-e18ef2ab8ef4/a/result
+[32m2023-01-09 15:57:03 +0700[0m - dagster - [34mDEBUG[0m - my_job - f6eda839-c8e5-4d4a-97fc-e18ef2ab8ef4 - 79259 - a - HANDLED_OUTPUT - Handled output "result" using IO manager "io_manager"
+[32m2023-01-09 15:57:03 +0700[0m - dagster - [34mDEBUG[0m - my_job - f6eda839-c8e5-4d4a-97fc-e18ef2ab8ef4 - 79259 - a - STEP_SUCCESS - Finished execution of step "a" in 90ms.

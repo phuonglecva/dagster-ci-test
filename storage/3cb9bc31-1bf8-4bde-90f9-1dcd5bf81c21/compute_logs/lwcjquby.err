@@ -1,0 +1,8 @@
+[32m2023-01-09 15:52:02 +0700[0m - dagster - [34mDEBUG[0m - update_job - 3cb9bc31-1bf8-4bde-90f9-1dcd5bf81c21 - 76018 - LOGS_CAPTURED - Started capturing logs in process (pid: 76018).
+[32m2023-01-09 15:52:02 +0700[0m - dagster - [34mDEBUG[0m - update_job - 3cb9bc31-1bf8-4bde-90f9-1dcd5bf81c21 - 76018 - a - STEP_START - Started execution of step "a".
+[32m2023-01-09 15:52:02 +0700[0m - dagster - [34mINFO[0m - update_job - 3cb9bc31-1bf8-4bde-90f9-1dcd5bf81c21 - a - log from a
+[32m2023-01-09 15:52:02 +0700[0m - dagster - [34mDEBUG[0m - update_job - 3cb9bc31-1bf8-4bde-90f9-1dcd5bf81c21 - 76018 - a - STEP_OUTPUT - Yielded output "result" of type "Any". (Type check passed).
+[32m2023-01-09 15:52:02 +0700[0m - dagster - [34mDEBUG[0m - update_job - 3cb9bc31-1bf8-4bde-90f9-1dcd5bf81c21 - a - Writing file at: /home/phuonglc/wspace/test/dagster-test/storage/a
+[32m2023-01-09 15:52:02 +0700[0m - dagster - [34mDEBUG[0m - update_job - 3cb9bc31-1bf8-4bde-90f9-1dcd5bf81c21 - 76018 - a - ASSET_MATERIALIZATION - Materialized value a.
+[32m2023-01-09 15:52:02 +0700[0m - dagster - [34mDEBUG[0m - update_job - 3cb9bc31-1bf8-4bde-90f9-1dcd5bf81c21 - 76018 - a - HANDLED_OUTPUT - Handled output "result" using IO manager "io_manager"
+[32m2023-01-09 15:52:02 +0700[0m - dagster - [34mDEBUG[0m - update_job - 3cb9bc31-1bf8-4bde-90f9-1dcd5bf81c21 - 76018 - a - STEP_SUCCESS - Finished execution of step "a" in 149ms.
